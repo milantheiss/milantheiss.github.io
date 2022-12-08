@@ -5,7 +5,7 @@ class ScratchFetch {
 
     getInfo() {
         return {
-            "id": "ev3-scratch-interface",
+            "id": "MilanTheissEv3ScratchInterface",
             "name": "EV3 Scratch Interface",
             "blocks": [
                 {
