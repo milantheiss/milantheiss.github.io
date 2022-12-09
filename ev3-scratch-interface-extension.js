@@ -45,7 +45,7 @@ class ScratchFetch {
         };
     }
 
-    url = "https://e13d-213-157-8-90.eu.ngrok.io/"
+    url = "t.ly/ev3-scratch-interface-extension"
 
     forwards({timeout}){
         return fetch([this.url, "forwards?timeout=", timeout, "&speed=50"].join(""), {
